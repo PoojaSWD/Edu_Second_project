@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category": "By Flavour"
+    },
+    {
+        "id":2,
+        "category":"By Type"
+    },
+    {
+        "id":3,
+        "category": "Designer Cake"
+    },
+    {
+        "id":4,
+        "category": "Desserts"
+    },
+    {
+        "id":5,
+        "category": "Occasions"
+    }
+]

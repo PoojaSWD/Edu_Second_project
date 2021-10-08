@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "product_name": "Snicker Fuse Chocolate Cake",
+        "category": "By Flavour",
+        "sub-category": "Chocalate Cake",
+        "category_id": 1,
+        "prize": 599,
+        "weight": "1kg",
+        "Image": "https://i.ibb.co/4KPP644/snicker-chocolate-cake-A.jpg",
+        "Desription": "Rich chocolate cake wonderfully crammed with Cadbury Fuse and white chocolate chunks and draped lusciously with molten chocolate. This perfect work of art hides in every bite, the scrumptious flavours of heavily whipped chocolate cream and nutty bits of chocolate that is a little nutty and a lot of tasty!"
+        
+    },
+    {
+        "id":2,
+        "product_name": "Swirled in Flavor Butterscotch Cake",
+        "category": "By Flavour",
+        "sub-category": "Butterscotch Cake",
+        "category_id": 1,
+        "prize": 549,
+        "weight": "1kg",
+        "Image": "https://i.ibb.co/dGZTPgK/swirled-in-flavor-butterscotch-cake-cake2283butt-A.jpg",
+        "Desription": "It is a beautifully composed cake with shades of white, yellow, and dark brown. Butterscotch is the main flavor and filling in the cake paired with a little bit of vanilla and small chocolate bars."
+    },
+    {
+        "id":3,
+        "product_name": "Square-Shaped Little Singham Poster Cake",
+        "category": "By Type",
+        "sub-category": "Photo Cake",
+        "category_id": 2,
+        "prize": 649,
+        "weight": "1kg",
+        "Image": "https://i.ibb.co/BV9hbty/singham-A.jpg",
+        "Desription": "Surprise your little ones with this personalized poster cake of an animated cartoon Little Singham and get their name printed on it as well. Bring big fat fun and joy to their celebration with your sweet little gift."
+    },
+    {
+        "id":4,
+        "product_name": "Blue Frozen Pull Me Up Chocolate Cake",
+        "category": "By Type",
+        "sub-category": "Pull Me Up Cake",
+        "category_id": 2,
+        "prize": 1199,
+        "weight": "1kg",
+        "Image": "https://i.ibb.co/DGQ568k/blue-frozen-pull-me-up-cake-pulm2146flav-A.jpg",
+        "Desription": "Does your daughter or little sister love the Frozen princess character? If yes, this beautiful and delicious barbie doll pull-me-up cake is the sweet treat that she definitely deserves whether it is her birthday or any special occasion when she must feel extra special."
+    },
+    {
+        "id":5,
+        "product_name": "Baby Girl Baby Boy Cake",
+        "category": "Designer Cake",
+        "sub-category": "Baby Shower Cake",
+        "category_id": 3,
+        "prize": 799,
+        "weight": "1kg",
+        "Image": "https://i.ibb.co/YZT1f6t/baby-girl-baby-boy-cake-cake1432vani-0.jpg",
+        "Desription": "Baby girl or baby boy? Baby showers are real fun and so is this fresh, delicious, designer cake. Make the baby show of mother to be real fun and surprise her with this beautiful and elegant cake to make it special for her as she is going to bring a whole new life to this world."
+    },
+    {
+        "id":6,
+        "product_name": "Nature Cream Cake",
+        "category": "Designer Cake",
+        "sub-category": "Jungle Theme Cakes",
+        "category_id": 3,
+        "prize": 3299,
+        "weight": "3kg",
+        "Image": "https://i.ibb.co/q53znSq/serenity-of-nature-them0337flav-030118-A.jpg",
+        "Desription": "We baked you this Paradisiacal nature cake with utmost creativity that will brighten up the celebrations for a Nature lover. Adorned with trees and snow, this two-tiered delicious cake is signifying the true essence of nature. You can grab this cake in six delicious flavors: chocolate, vanilla, butterscotch, strawberry, pineapple, and black forest.."
+    },
+    {
+        "id":7,
+        "product_name": "Set Of 6 Multi Flavored Cupcakes",
+        "category": "Desserts",
+        "sub-category": "Cupcakes",
+        "category_id": 4,
+        "prize": 499,
+        "weight": "0kg",
+        "Image": "https://i.ibb.co/R3zsTHY/set-of-6-multi-flavored-cupcakes-cupc1773flav-A.jpg",
+        "Desription": "Cuppy-cakes full of flavors, taste, and sugarlicious. A box packed with six assorted flavored cupcakes in red velvet, blueberry, and coffee flavors. Each of the cupcakes is frosted with whipped cream and garnished with flavoring ingredients for pleasing your sweet-tooth."
+    },
+    {
+        "id":8,
+        "product_name": "Delicious Birthday Print Chocolate Jar Cake",
+        "category": "Desserts",
+        "sub-category": "Jar Cakes",
+        "category_id": 4,
+        "prize": 329,
+        "weight": "250ml",
+        "Image": "https://i.ibb.co/vvGpm55/delicious-birthday-print-jar-cake-jar2140choc-A.jpg",
+        "Desription": "Let The Most Delicious Jar Cake Devour In Your Favourite Person'S Mouth In A Jiffy. This Birthday Jar Cake Adorned With An Edible Birthday Poster Is A Great And Unique Delicacy To Gift On A Birthday. With This Chocolicious Savoury, Make Your Birthday Chocoliciously Memorable."
+    },
+    {
+        "id":9,
+        "product_name": "Republic Day Poster Cake",
+        "category": "Occasions",
+        "sub-category": "Republic Day Cake",
+        "category_id": 5,
+        "prize": 649,
+        "weight": "1kg",
+        "Image": "https://i.ibb.co/SyG8KLT/republic-day-poster-cake-phot1690flav-A.jpg",
+        "Desription": "elish in the mouth-watering flavours of a special customised 26th Jan republic day poster cake with your loved ones. Celebrate this grand day with the flavours of your choice. Choose between the different bases, and we will whip up this gorgeous cake, especially for you!"
+    },
+    {
+        "id":10,
+        "product_name": "Teachers Day Poster Cake",
+        "category": "Occasions",
+        "sub-category": "Teachers Day Cake",
+        "category_id": 5,
+        "prize": 699,
+        "weight": "1kg",
+        "Image": "https://i.ibb.co/Y0hHTXQ/idolizing-temptations-phot0739flav-A.jpg",
+        "Desription": "In the modern world, real heroes don't wear capes, they pick up their bag, books, and teach. That's right, our teachers are the superheroes in disguise who has undertaken the responsibility of enlightening the world in all the courageous subjects. And this upcoming teacher's day, make sure you give them a sweet break and wish in a magnificent manner."
+    }
+  
+
+]
